@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+  }
+  
+  th {
+    background: rgb(93, 128, 116);
+    color: white;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid rgb(123, 167, 152)
+  }
+  
+
+  
+  .right-side-container {
+    float: right;
+  }
+ 
